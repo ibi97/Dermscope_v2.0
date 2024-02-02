@@ -205,23 +205,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QOLTSZGZ
 
 [Document10]
-DocumentPath=09 USB HUB.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZAYVMHPW
-
-[Document11]
 DocumentPath=12 CONSOLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1200
@@ -238,7 +221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYCKYTKX
 
-[Document12]
+[Document11]
 DocumentPath=MAIN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,6 +237,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGZPBDMZ
+
+[Document12]
+DocumentPath=D:\Dermscope_v2_PCB\09 USB HUB.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZAYVMHPW
 
 [Document13]
 DocumentPath=04 Custom.SchDoc
